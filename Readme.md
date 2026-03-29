@@ -30,11 +30,7 @@ I have hands-on experience in **MERN stack** and **fullstack development**, with
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p> 
-
-## 🔄 Real-Time Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=socketio" />
-</p>  
+  
 
 ## 🗄️ Database
 <p align="left">
@@ -43,7 +39,7 @@ I have hands-on experience in **MERN stack** and **fullstack development**, with
 
 ## ☁️ Tools & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,render,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
 </p>
 
 ---
@@ -70,7 +66,7 @@ I have hands-on experience in **MERN stack** and **fullstack development**, with
 
 # 💻 Projects
 
-## 🔹 AI Blog Platform
+##🔹AI Blog Platform
 **Tech Stack:** MERN Stack, AI APIs, JWT Authentication  
 **Role:** Full-Stack Developer  
 **Year:** 2026
@@ -81,7 +77,7 @@ I have hands-on experience in **MERN stack** and **fullstack development**, with
 - Built secure authentication system using JWT for user access and session handling
 
 
-## 🔹Real-Time Collaborative Document Editor
+##🔹Real-Time Collaborative Document Editor
 **Tech Stack:** React.js, Node.js, Socket.io, MongoDB  
 **Role:** Full-Stack Developer  
 **Year:** 2026
@@ -92,7 +88,7 @@ I have hands-on experience in **MERN stack** and **fullstack development**, with
 - Designed room-based collaboration system for shared editing sessions
 
 
-## 🔹 Day Forge (Productivity / Tracking Platform)
+##🔹Day Forge (Productivity / Tracking Platform)
 **Tech Stack:** HTML, CSS, JAVASCRIPT  
 **Role:** Frontend Developer  
 **Year:** 2025
@@ -163,9 +159,6 @@ I have hands-on experience in **MERN stack** and **fullstack development**, with
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://vercel.com/ekta-mishras-projects" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
 ---
