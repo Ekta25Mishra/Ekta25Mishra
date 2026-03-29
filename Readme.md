@@ -66,7 +66,7 @@ I have hands-on experience in **MERN stack** and **fullstack development**, with
 
 # 💻 Projects
 
-##🔹AI Blog Platform
+## 🔹AI Blog Platform
 **Tech Stack:** MERN Stack, AI APIs, JWT Authentication  
 **Role:** Full-Stack Developer  
 **Year:** 2026
@@ -77,7 +77,7 @@ I have hands-on experience in **MERN stack** and **fullstack development**, with
 - Built secure authentication system using JWT for user access and session handling
 
 
-##🔹Real-Time Collaborative Document Editor
+## 🔹Real-Time Collaborative Document Editor
 **Tech Stack:** React.js, Node.js, Socket.io, MongoDB  
 **Role:** Full-Stack Developer  
 **Year:** 2026
@@ -88,7 +88,7 @@ I have hands-on experience in **MERN stack** and **fullstack development**, with
 - Designed room-based collaboration system for shared editing sessions
 
 
-##🔹Day Forge (Productivity / Tracking Platform)
+## 🔹Day Forge (Productivity / Tracking Platform)
 **Tech Stack:** HTML, CSS, JAVASCRIPT  
 **Role:** Frontend Developer  
 **Year:** 2025
