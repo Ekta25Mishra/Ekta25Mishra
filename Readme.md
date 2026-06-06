@@ -1,4 +1,4 @@
-```md
+
 <!-- ✨ Minimal Typing Header -->
 
 <p align="center">
@@ -123,4 +123,3 @@ ideas into projects, and
 dreams into digital reality ✨
 
 </p>
-```
